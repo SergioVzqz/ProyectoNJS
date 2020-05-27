@@ -1,0 +1,22 @@
+{
+  "name": "proyectonjs",
+  "version": "1.0.0",
+  "description": "Proyecto NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SergioVzqz/ProyectoNJS.git"
+  },
+  "author": "Roberto, Erick y Sergio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SergioVzqz/ProyectoNJS/issues"
+  },
+  "homepage": "https://github.com/SergioVzqz/ProyectoNJS#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
